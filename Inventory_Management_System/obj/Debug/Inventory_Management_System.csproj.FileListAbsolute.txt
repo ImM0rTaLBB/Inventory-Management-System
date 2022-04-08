@@ -1,0 +1,133 @@
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\test.accdb
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Inventory_Management_System.exe.config
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Inventory_Management_System.exe.manifest
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Inventory_Management_System.application
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Inventory_Management_System.exe
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Inventory_Management_System.pdb
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.Shared.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\FlashControlV71.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ShockwaveFlashObjects.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\stdole.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csproj.ResolveComReference.cache
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminForm.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminReport.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITabout.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITForm.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage2.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage3.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage4.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage5.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITManageMDI.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITPreviousUserSearch.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt0.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt2.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt3.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt4.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceiptExcel.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch1.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch2.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch3.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITSearchMDI.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.Login.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csproj.GenerateResource.Cache
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.exe.manifest
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.application
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.exe
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.pdb
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminSearchMDI.resources
+D:\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csprojResolveAssemblyReference.cache
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csprojAssemblyReference.cache
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csproj.ResolveComReference.cache
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminForm.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminReport.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.AdminSearchMDI.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITabout.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITForm.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage2.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage3.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage4.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITmanage5.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITManageMDI.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITPreviousUserSearch.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt0.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt2.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt3.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceipt4.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITReceiptExcel.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch1.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch2.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITsearch3.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.ITSearchMDI.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.Login.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csproj.GenerateResource.cache
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.csproj.CoreCompileInputs.cache
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.exe
+G:\My Drive\GSK\Inventory_Management_System\Inventory_Management_System\obj\Debug\Inventory_Management_System.pdb

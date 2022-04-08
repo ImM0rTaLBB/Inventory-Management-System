@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="testDataSet1" targetNamespace="http://tempuri.org/testDataSet1.xsd" xmlns:mstns="http://tempuri.org/testDataSet1.xsd" xmlns="http://tempuri.org/testDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="testConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="testConnectionString (Settings)" PropertyReference="ApplicationSettings.Inventory_Management_System.Properties.Settings.GlobalReference.Default.testConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ComputerDataTableAdapter" GeneratorDataComponentClassName="ComputerDataTableAdapter" Name="ComputerData" UserDataComponentName="ComputerDataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="testConnectionString (Settings)" DbObjectName="ComputerData" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Brand, Model, Serial_Number FROM ComputerData</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Brand" DataSetColumn="Brand" />
+              <Mapping SourceColumn="Model" DataSetColumn="Model" />
+              <Mapping SourceColumn="Serial_Number" DataSetColumn="Serial_Number" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UserDataTableAdapter" GeneratorDataComponentClassName="UserDataTableAdapter" Name="UserData" UserDataComponentName="UserDataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="testConnectionString (Settings)" DbObjectName="UserData" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [MUD-ID], Name, Surname FROM UserData</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MUD-ID" DataSetColumn="MUD-ID" />
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="Surname" DataSetColumn="Surname" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="testDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="testDataSet1" msprop:Generator_UserDSName="testDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ComputerData" msprop:Generator_TableClassName="ComputerDataDataTable" msprop:Generator_TableVarName="tableComputerData" msprop:Generator_TablePropName="ComputerData" msprop:Generator_RowDeletingName="ComputerDataRowDeleting" msprop:Generator_RowChangingName="ComputerDataRowChanging" msprop:Generator_RowEvHandlerName="ComputerDataRowChangeEventHandler" msprop:Generator_RowDeletedName="ComputerDataRowDeleted" msprop:Generator_UserTableName="ComputerData" msprop:Generator_RowChangedName="ComputerDataRowChanged" msprop:Generator_RowEvArgName="ComputerDataRowChangeEvent" msprop:Generator_RowClassName="ComputerDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Model" msprop:Generator_ColumnVarNameInTable="columnModel" msprop:Generator_ColumnPropNameInRow="Model" msprop:Generator_ColumnPropNameInTable="ModelColumn" msprop:Generator_UserColumnName="Model" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Serial_Number" msprop:Generator_ColumnVarNameInTable="columnSerial_Number" msprop:Generator_ColumnPropNameInRow="Serial_Number" msprop:Generator_ColumnPropNameInTable="Serial_NumberColumn" msprop:Generator_UserColumnName="Serial_Number" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="UserData" msprop:Generator_TableClassName="UserDataDataTable" msprop:Generator_TableVarName="tableUserData" msprop:Generator_TablePropName="UserData" msprop:Generator_RowDeletingName="UserDataRowDeleting" msprop:Generator_RowChangingName="UserDataRowChanging" msprop:Generator_RowEvHandlerName="UserDataRowChangeEventHandler" msprop:Generator_RowDeletedName="UserDataRowDeleted" msprop:Generator_UserTableName="UserData" msprop:Generator_RowChangedName="UserDataRowChanged" msprop:Generator_RowEvArgName="UserDataRowChangeEvent" msprop:Generator_RowClassName="UserDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MUD-ID" msprop:Generator_ColumnVarNameInTable="_columnMUD_ID" msprop:Generator_ColumnPropNameInRow="_MUD_ID" msprop:Generator_ColumnPropNameInTable="_MUD_IDColumn" msprop:Generator_UserColumnName="MUD-ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Surname" msprop:Generator_ColumnVarNameInTable="columnSurname" msprop:Generator_ColumnPropNameInRow="Surname" msprop:Generator_ColumnPropNameInTable="SurnameColumn" msprop:Generator_UserColumnName="Surname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
